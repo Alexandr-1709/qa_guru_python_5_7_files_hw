@@ -1,6 +1,6 @@
 from pypdf import PdfReader
 import os
-from os_path_scripts import resources
+from os_path.os_path_scripts import resources
 pdf_path = os.path.join(resources, 'docs-pytest-org-en-latest.pdf')
 
 

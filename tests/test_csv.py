@@ -1,7 +1,7 @@
 import csv
 import os
-from os_path_scripts import tmp
-csv_path = os.path.join(tmp, 'eggs.csv')
+from os_path.os_path_scripts import resources
+csv_path = os.path.join(resources, 'eggs.csv')
 
 
 # TODO оформить в тест, добавить ассерты и использовать универсальный путь
