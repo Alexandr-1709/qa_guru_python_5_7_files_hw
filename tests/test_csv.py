@@ -1,6 +1,6 @@
 import csv
 import os
-from os_path.os_path_scripts import resources
+from os_path_scripts import resources
 csv_path = os.path.join(resources, 'eggs.csv')
 
 

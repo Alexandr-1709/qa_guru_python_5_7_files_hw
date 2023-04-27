@@ -1,6 +1,6 @@
 from openpyxl import load_workbook
 import os
-from os_path.os_path_scripts import resources
+from os_path_scripts import resources
 xlsx_path = os.path.join(resources, 'file_example_XLSX_50.xlsx')
 
 

@@ -1,6 +1,6 @@
 import time
 import os
-from os_path.os_path_scripts import PROJECT_ROOT_PATH
+from os_path_scripts import PROJECT_ROOT_PATH
 from selenium import webdriver
 from selene import browser
 from selenium.webdriver.chrome.service import Service

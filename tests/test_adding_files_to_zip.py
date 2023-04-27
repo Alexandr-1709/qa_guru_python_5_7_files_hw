@@ -1,7 +1,7 @@
 from zipfile import ZipFile
 import zipfile
 import os
-from os_path.os_path_scripts import resources
+from os_path_scripts import resources
 
 zip_path = resources
 zip_file = 'zip_test_file.zip'

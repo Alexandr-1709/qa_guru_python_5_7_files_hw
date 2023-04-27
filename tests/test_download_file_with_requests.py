@@ -1,5 +1,5 @@
 import os.path
-from os_path.os_path_scripts import PROJECT_ROOT_PATH
+from os_path_scripts import PROJECT_ROOT_PATH
 import requests
 
 
